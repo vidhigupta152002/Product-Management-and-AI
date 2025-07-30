@@ -20,7 +20,7 @@ Each project explores one or more of these areas, framed with a product mindset.
 
 ## 📂 Project Structure
 
-Each folder in this repository represents a weekly project. Every project includes:
+Each file in this repository represents a weekly project. Every project includes:
 - A problem-solution write-up
 - Application of product and AI frameworks
 - Diagrams, mockups, or code (when applicable)
@@ -40,7 +40,7 @@ Each folder in this repository represents a weekly project. Every project includ
 - 🧩 Product Thinking, Value Proposition Canvas
 - 🔁 Lean Experimentation
 - 🤖 Agentic AI, LLMs (GPT, LangChain)
-- 🖌 Figma, Notion, Python, JS (as applicable)
+- 🖌 Figma, Notion (as applicable)
 
 ---
 
