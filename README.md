@@ -38,9 +38,9 @@ Each file in this repository represents a weekly project. Every project includes
 ---
 
 ## 🛠 Tools & Frameworks Used
-- 🧩
-WEEK 1: Product Thinking and Solution, Value Proposition Canvas
-WEEK 2: User Interview, JTBD, Persona, Customer-Journey Map, Validation Methods
+🧩 WEEK 1: Product Thinking and Solution, Value Proposition Canvas
+🧩 WEEK 2: User Interview, JTBD, Persona, Customer-Journey Map, Validation Methods
+
 <!--
 - 🔁 Lean Experimentation
 - 🤖 Agentic AI, LLMs (GPT, LangChain)
