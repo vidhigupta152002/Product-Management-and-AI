@@ -55,5 +55,5 @@ Feel free to explore, comment, or connect!
 
 ## 📫 Connect with Me
 
-- GitHub: [vidhigupta152002]
+- GitHub: [https://github.com/vidhigupta152002/]
 - LinkedIn: [https://www.linkedin.com/in/vidhigupta152002/]
