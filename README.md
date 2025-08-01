@@ -32,12 +32,13 @@ Each file in this repository represents a weekly project. Every project includes
 | Week | Title | Summary |
 |------|-------|---------|
 | Week 1 | Problem-Solution Fit | Identifying a relatable student problem and mapping a strong product solution |
+| Week 2 | Flop to Phoenix | Real World Product that failed in market, how it would be redesigned into a successful offering today|
 
 
 ---
 
 ## 🛠 Tools & Frameworks Used
-- 🧩 Product Thinking, Value Proposition Canvas
+- 🧩 Product Thinking and Solution, Value Proposition Canvas, User Interview, JTBD, Persona, Customer-Journey Map, Validation Methods
 - 🔁 Lean Experimentation
 - 🤖 Agentic AI, LLMs (GPT, LangChain)
 - 🖌 Figma, Notion (as applicable)
@@ -55,4 +56,4 @@ Feel free to explore, comment, or connect!
 ## 📫 Connect with Me
 
 - GitHub: [vidhigupta152002]
-- LinkedIn: [(https://www.linkedin.com/in/vidhigupta152002/)]
+- LinkedIn: [https://www.linkedin.com/in/vidhigupta152002/]
