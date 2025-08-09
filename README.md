@@ -33,6 +33,7 @@ Each file in this repository represents a weekly project. Every project includes
 |------|-------|---------|
 | Week 1 | Problem-Solution Fit | Identifying a relatable student problem and mapping a strong product solution |
 | Week 2 | Flop to Phoenix | Real World Product that failed in market, how it would be redesigned into a successful offering today|
+| Week 3 | Product Lens: Solving what Matters Most | Indentifying a user problem and applying Product Priortization and MVP|
 
 
 ---
@@ -43,6 +44,8 @@ Each file in this repository represents a weekly project. Every project includes
 WEEK 1: Product Thinking and Solution, Value Proposition Canvas
 
 WEEK 2: User Interview, JTBD, Persona, Customer-Journey Map, Validation Methods (Qualitative, Quantitative)
+
+WEEK 3: Problem-Solution Fit, Opportunity Sizing, Prioritization using RICE, MoSCoW Framework, Kano Framework, MVP Definition
 
 <!--
 - 🔁 Lean Experimentation
