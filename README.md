@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a878f05-2327-43fe-b4e5-2494f017848a" /># 🧠 Product Management & Agentic AI Certification Projects
+# 🧠 Product Management & Agentic AI Certification Projects
 
 Welcome to my project repository for the **Product Management & Agentic AI Certification** program.
 
