@@ -35,6 +35,7 @@ Each file in this repository represents a weekly project. Every project includes
 | Week 2 | Flop to Phoenix | Real World Product that failed in market, how it would be redesigned into a successful offering today|
 | Week 3 | Product Lens: Solving what Matters Most | Indentifying a user problem and applying Product Priortization and MVP|
 | Week 4 | Solving What Matters Most: A Product Thinking Case Study | Indentifying a problem in an existing app and apply Week 1,2,3 learnings to it|
+| Week 5 | FocusMate: Build Better Screen Habits | Mapping a user problem to a probable app flows using Wireframe|
 
 ---
 
@@ -48,6 +49,8 @@ WEEK 2: User Interview, JTBD, Persona, Customer-Journey Map, Validation Methods 
 WEEK 3: Problem-Solution Fit, Opportunity Sizing, Prioritization using RICE, MoSCoW Framework, Kano Framework, MVP Definition
 
 WEEK 4: Product Vision, Roadmaps (Timeline-based, Theme-based, Now-Next-Later,  Product Launch Roadmap), Storytelling
+
+WEEK 5: MixPanel, Figma, UI/UX
 
 
 <!--
