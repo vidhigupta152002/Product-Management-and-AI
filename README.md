@@ -36,6 +36,10 @@ Each file in this repository represents a weekly project. Every project includes
 | Week 3 | Product Lens: Solving what Matters Most | Indentifying a user problem and applying Product Priortization and MVP|
 | Week 4 | Solving What Matters Most: A Product Thinking Case Study | Indentifying a problem in an existing app and apply Week 1,2,3 learnings to it|
 | Week 5 | FocusMate: Build Better Screen Habits | Mapping a user problem to a probable app flows using Wireframe|
+| Week 6 | SaveEase: Auto Saving Jar | Using Wireframe to map a user problem to potential app flows, developing an MVP, and formulating a roadmap|
+| SEMESTER 1 | Campus Connect: AI-Driven Community & Study Coordination | Helping University Students to balance their academic and social lives with the help of AI-based Study Group Matching and Campus Clubs & Events Discovery.|
+
+
 
 ---
 
@@ -52,6 +56,9 @@ WEEK 4: Product Vision, Roadmaps (Timeline-based, Theme-based, Now-Next-Later,  
 
 WEEK 5: MixPanel, Figma, UI/UX
 
+WEEK 6: User Research, Persona Creation, Flow Design, Wireframes, Minimum Viable Product, Roadmap, Usability Testing Plan
+
+SEMESTER 1: All Concepts Implementation covered in Semester 1
 
 <!--
 - 🔁 Lean Experimentation
