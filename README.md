@@ -38,7 +38,7 @@ Each file in this repository represents a weekly project. Every project includes
 | Week 5 | FocusMate: Build Better Screen Habits | Mapping a user problem to a probable app flows using Wireframe|
 | Week 6 | SaveEase: Auto Saving Jar | Using Wireframe to map a user problem to potential app flows, developing an MVP, and formulating a roadmap|
 | SEMESTER 1 | Campus Connect: AI-Driven Community & Study Coordination | Helping University Students to balance their academic and social lives with the help of AI-based Study Group Matching and Campus Clubs & Events Discovery.|
-| Tool Demo 1 | Wandr: COMPANION FINDING PLATFORM | Given a rough prompt to ChatGPT Prompt Maker-> Given the generated prompt to Lovable AI to create an  MVP.|
+| Tool Demo | Hands-on for different tools | WANDR- COMPANION FINDING PLATFORM|
 
 
 
@@ -62,7 +62,7 @@ WEEK 6: User Research, Persona Creation, Flow Design, Wireframes, Minimum Viable
 
 SEMESTER 1: All Concepts Implementation covered in Semester 1
 
-TOOL DEMO 1: Custom ChatGPT Prompt Maker, Lovable
+TOOL DEMO: WANDR (Custom ChatGPT Prompt Maker, Lovable)
 
 <!--
 - 🔁 Lean Experimentation
